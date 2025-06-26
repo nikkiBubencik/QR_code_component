@@ -49,6 +49,7 @@ p {
     padding: 1rem;
     border-radius: 1rem;
     width: 21rem;
+    max-width: 100%;
     text-align: center;
     font-family: var(--font-families);
 }
