@@ -48,8 +48,8 @@ p {
     background-color: var(--white);
     padding: 1rem;
     border-radius: 1rem;
-    width: 21rem;
-    max-width: 100%;
+    width: 100%;
+    max-width: 21rem;
     text-align: center;
     font-family: var(--font-families);
 }
